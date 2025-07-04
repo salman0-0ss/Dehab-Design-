@@ -25,7 +25,7 @@
 
   <section id="about">
     <h2>About Us</h2>
-    <p>Dehab Habesha is a traditional clothing shop based in Ethiopia, dedicated to preserving cultural fashion through modern design. We offer custom orders and ready-made clothing for all occasions.</p>
+    <p>Dehab Habesha is a traditional clothing shop based in Ethiopia,Eriteria dedicated to preserving cultural fashion through modern design. We offer custom orders and ready-made clothing for all occasions.</p>
   </section>
 
   <section id="products">
